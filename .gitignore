@@ -1,1 +1,2 @@
-secrets.yami
+secrets.yaml
+*.config
